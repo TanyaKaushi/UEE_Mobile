@@ -3,13 +3,32 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/custom_background.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/custom_button.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/custom_button_copy.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/custom_input.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/ic_arrow_forward_black_24dp.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/ic_email.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.12664473684210525" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/drawable/ic_lock.xml" value="0.12664473684210525" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/font/artifika.xml" value="0.1355263157894737" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/font/cinzel_decorative.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/font/david_libre.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/font/metal_mania.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_forget_password.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_intro.xml" value="0.11644736842105263" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_intro_view_pager_adapter.xml" value="0.10756578947368421" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_introduction_page.xml" value="0.11644736842105263" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_login_page.xml" value="0.13999999999999999" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_user_profile_update_page.xml" value="0.11644736842105263" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_login_page.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_main.xml" value="0.11644736842105263" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_register_page.xml" value="0.10204081632653061" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_start_page.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_user_profile_page.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/activity_user_profile_update_page.xml" value="0.13999999999999999" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/layout/layout_screen.xml" value="0.11644736842105263" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp - Copy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp/app/src/main/res/drawable/custom_button.xml" value="0.12664473684210525" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp/app/src/main/res/drawable/custom_input.xml" value="0.12664473684210525" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/AuthApp/app/src/main/res/layout/activity_forget_password.xml" value="0.11644736842105263" />
